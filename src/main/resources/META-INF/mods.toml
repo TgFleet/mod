@@ -1,0 +1,11 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="All rights reserved"
+
+[[mods]]
+modId="steamcraft"
+version="1.0"
+displayName="SteamCraft 1800s"
+description='''
+Steam-powered trains in the 1800s with autopilot and realism.
+'''
